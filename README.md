@@ -1,7 +1,7 @@
 # ⛏️ Prospecting Macro
 
 [![GitHub release](https://img.shields.io/github/v/release/Goldydt/fisch_macro)](https://github.com/Goldydt/fisch_macro/releases/tag/Release)
-[![License](https://img.shields.io/github/license/Goldydt/fisch_macro)](https://github.com/Goldydt/fisch_macro/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/Goldydt/fisch_macro)](https://github.com/Goldydt/prospecting_macro?tab=MIT-1-ov-file)
 
 A macro designed for the Roblox game **Prospecting**.
 
