@@ -1,7 +1,7 @@
 # ⛏️ Prospecting Macro
 
 [![GitHub release](https://img.shields.io/github/v/release/Goldydt/fisch_macro)](https://github.com/Goldydt/fisch_macro/releases/tag/Release)
-[![License](https://img.shields.io/github/license/Goldydt/fisch_macro)](https://github.com/Goldydt/prospecting_macro?tab=MIT-1-ov-file)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Goldydt/fisch_macro/blob/main/LICENSE)
 
 A macro designed for the Roblox game **Prospecting**.
 
@@ -34,5 +34,8 @@ Join our Discord for updates, support, and discussions:
 ---
 
 ## 📜 License
-This project is covered under a [custom license](https://github.com/Goldydt/fisch_macro/blob/main/LICENSE).  
-Usage is restricted — please review the license terms before using.
+This project is licensed under the [MIT License](https://github.com/Goldydt/fisch_macro/blob/main/LICENSE).  
+
+- ✅ You are free to **use, modify, and distribute** this project.  
+- 📝 However, you **must leave proper credits** to the original developers:  
+  > "This project was originally developed by TZ INC (previously Pingu Developer Team) and contributors."
